@@ -1,5 +1,5 @@
 var person = {
-  firstname: "John",
+  firstName : "John",
   lastName : "Doe",
   id     : 5566,
   fullName : function() {
